@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://www.example.com/sitemap.xml
+Sitemap: https://telfeu.github.io/projet4v2/index.html
