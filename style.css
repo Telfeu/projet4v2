@@ -780,7 +780,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #f08959;
 }
 
 .tc-white {
@@ -1069,4 +1069,8 @@ h4 {
 
 .row{
     margin:2rem auto;
+}
+.partenaires{
+    color:white;
+    font-size: 12px;
 }
