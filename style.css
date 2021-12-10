@@ -744,7 +744,11 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: white !important;
+}
+
+.black{
+    color:black !important;
 }
 
 .portfolio-thumb {
@@ -787,9 +791,13 @@ h4 {
     color: #ffffff!important;
 }
 
+.tc-black {
+    color: black!important;
+}
+
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1071,7 +1079,7 @@ h4 {
     margin:2rem auto;
 }
 .partenaires{
-    color: white !important;;
+    color: black !important;;
     font-size: 24px !important;
 }
 .partenaires a{
@@ -1088,4 +1096,14 @@ h4 {
 .portfolio-thumb{
     width:100%;
 
+}
+
+.text-bold{
+    font-weight: 500;
+    font-size:1.9rem;
+
+}
+
+.text-italic{
+    font-style: italic;
 }
